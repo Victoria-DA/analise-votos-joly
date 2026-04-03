@@ -19,9 +19,13 @@ Based on the generated visualizations:
    - In **Majority** systems, the leading district for Joly was **121-La Pointe-aux-Prairies**.
 
 ## 📸 Visualizations
-The project includes:
-- **Interactive Bar Charts**: To compare absolute votes per district.
-- **Histograms**: To analyze the distribution of votes categorized by the election outcome.
+
+The project includes interactive visualizations to better understand the electoral landscape:
+
+- **Interactive Bar Charts**: Used to compare the absolute number of votes for candidate Joly across all districts.
+![Bar Chart - Joly Votes](grafico_votos.png)
+
+- **Data Insights**: The analysis also categorized votes by election outcome (Plurality vs. Majority) to identify regional patterns.
 
 ## 📋 How to Run
 1. Clone this repository.
